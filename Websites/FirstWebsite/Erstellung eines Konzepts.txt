@@ -1,0 +1,27 @@
+﻿Erstellung eines Konzepts
+
+Die Abgabe der Webseite am 28.05.2019 soll um ein schriftlich ausformuliertes Konzept ergänzt werden.
+
+Zur Vorbereitung des strukturierten Fließtextes eignet sich eine Beantwortung der folgenden Fragen:
+
+	1. Welche Ziele verfolgt meine Webseite?
+	
+	2. An welche Zielgruppe richtet sich meine Webseite?
+	
+	3. Warum habe ich mich für:
+		a. Die gewählte Raumaufteilung
+		b. Den Banner
+		c. Die Navigation
+		d. Schrift und Textformatierung
+		e. Die gewählten Farben
+		f. Bildelemente
+		entschieden?
+		
+	4. Inwiefern habe ich mich bei der Gestaltung meiner Webseite an die von mir addressierte Zielgruppe orientiert?
+	
+	5. Welche weiteren Optimierungsmöglichkeiten gibt es?
+	
+	*Umfang: Ca. 1 DIN-A4
+	*Schriftgröße max: 11px
+	*Zeilenabstand max: 1.5px
+	
